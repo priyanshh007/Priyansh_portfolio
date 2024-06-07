@@ -1,0 +1,46 @@
+<svg
+  width="200"
+  height="200"
+  viewBox="0 0 200 200"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f5f5f5" />
+
+  <!-- Desk -->
+  <rect x="20" y="140" width="160" height="20" fill="#8B4513" />
+
+  <!-- Computer Monitor -->
+  <rect x="60" y="60" width="80" height="50" fill="#000" />
+  <rect x="65" y="65" width="70" height="40" fill="#fff" />
+
+  <!-- Computer Stand -->
+  <rect x="95" y="110" width="10" height="10" fill="#000" />
+  <rect x="90" y="120" width="20" height="5" fill="#000" />
+
+  <!-- Head -->
+  <circle cx="100" cy="40" r="15" fill="#ffcc99" />
+  <circle cx="100" cy="43" r="12" fill="#ffc185" />
+
+  <!-- Hair -->
+  <path
+    d="M85 30 Q100 10 115 30 Q100 20 85 30"
+    fill="#000"
+  />
+
+  <!-- Body -->
+  <rect x="85" y="55" width="30" height="40" fill="#007BFF" />
+
+  <!-- Arms -->
+  <rect x="75" y="55" width="10" height="40" fill="#ffc185" />
+  <rect x="115" y="55" width="10" height="40" fill="#ffc185" />
+
+  <!-- Hands on keyboard -->
+  <rect x="75" y="90" width="10" height="10" fill="#ffcc99" />
+  <rect x="115" y="90" width="10" height="10" fill="#ffcc99" />
+
+  <!-- Keyboard -->
+  <rect x="60" y="105" width="80" height="10" fill="#000" />
+
+</svg>
